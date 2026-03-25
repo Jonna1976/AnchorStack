@@ -119,7 +119,7 @@ The question is whether you want to build one by default - or scramble for one l
 
 ```bash
 git clone https://github.com/Jonna1976/anchorstack.git ~/.claude/skills/anchorstack
-cd ~/.claude/skills/anchorstack && ./setup
+cd ~/.claude/skills/anchorstack && ./setup.sh
 # Symlinks skills into your agent's directory. No installs, no dependencies, no lock-in.
 ```
 
